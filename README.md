@@ -1,4 +1,4 @@
 # SlideCubeGame
 my first complete game
 
-Install and load the .exe file or other
+Install and load the .exe file
